@@ -1,3 +1,2 @@
-# NAME:Ananda Nantana
-# STUDENT ID:680610731
-    
+# NAME: Ananda Nantana
+# STUDENT ID: 680610731
