@@ -91,10 +91,10 @@ int Unit::beAttacked(int oppatk) {
 	else {
 		damn = oppatk - def;
 	}
-
+	
 	hp = hp - damn;
 
-	return hp;
+	return damn;
 }
 
 int Unit::attack(Unit &opp){
